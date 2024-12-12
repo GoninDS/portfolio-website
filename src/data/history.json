@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Machine Learning Researcher",
+      "organisation": "CICA UCR",
+      "startDate": "Sept, 2024",
+      "endDate": "Dec, 2024",
+      "experiences": ["Automated classification of coffee samples based on chemical data.", "Graphed results through visualizations."],
+      "imageSrc": "ucr.png"
+    },
+    {
+      "role": "Data Structures and Algorithms Course Assistant",
+      "organisation": "ECCI UCR",
+      "startDate": "Mar, 2024",
+      "endDate": "Dec, 2024",
+      "experiences": ["Automated solutions for quizzes.", "Evaluated algorithms in search of proper time complexity."],
+      "imageSrc": "ucr.png"
+    },
+    {
+      "role": "Computability and Complexity Course Assistant",
+      "organisation": "ECCI, UCR",
+      "startDate": "Aug, 2023",
+      "endDate": "Dec, 2024",
+      "experiences": [
+        "Mentored fellow assistants to become more proficient at their job.",
+        "Evaluated code and documentation in search of good programming practices."
+      ],
+      "imageSrc": "ucr.png"
+    }
+  ]

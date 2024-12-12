@@ -1,0 +1,34 @@
+[
+    {
+        "title": "C",
+        "imageSrc": "c.svg"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "cplusplus.svg"
+    },
+    {
+        "title": "C#",
+        "imageSrc": "csharp.svg"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "python.svg"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "java.svg"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "react.png"
+    }
+  ]
