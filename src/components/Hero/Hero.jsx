@@ -4,18 +4,25 @@ import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
-    return <section className={styles.container}>
-        <div className={styles.content}>
-            <h1 className={styles.title}>Hello there!</h1>
-            <p className={styles.description}>
-                I'm Luis Solano, a recent computer science graduate. 
-                I am an enthusiast of learning how things work under the hood looking for opportunities to grow as a Software Developer. 
-                Feel free to reach out to me!
-            </p>
-            <a className={styles.contactBtn} href="mailto:luis.solano.work@gmail.com">Contact Me</a>
-        </div>
-        <img className={styles.heroImg} src={getImageUrl("heroImage.png")} alt="Image of myself"/>
-        <div className={styles.topBlur} />
-        <div className={styles.bottomBlur} />
+  return (
+    <section className={styles.container}>
+      <div className={styles.content}>
+        <h1 className={styles.title}>Hello, I'm Luis!</h1>
+        <p className={styles.description}>
+          I'm a developer awaiting graduation from Universidad de Costa Rica!
+          I have an interest in growing as a software developer, reach out if you'd like to learn more!
+        </p>
+        <a href="mailto:luis.solano.work@gmail.com" className={styles.contactBtn}>
+          Contact Me
+        </a>
+      </div>
+      <img
+        src={getImageUrl("heroImage.png")}
+        alt="Hero image of me"
+        className={styles.heroImg}
+      />
+      <div className={styles.topBlur} />
+      <div className={styles.bottomBlur} />
     </section>
+  );
 };
