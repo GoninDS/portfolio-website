@@ -1,0 +1,23 @@
+[
+    {
+      "title": "LoCoMPro",
+      "imageSrc": "locompro.png",
+      "description": "Search the cheapest and nearest items to you!",
+      "skills": ["JavaScript", "C#"],
+      "source": "https://github.com/Los-Pinwinos/ci0128_23b_los_pinwinos"
+    },
+    {
+      "title": "BinBot",
+      "imageSrc": "BinBot.png",
+      "description": "Automatic classifier of recyclable waste.",
+      "skills": ["Python", "Pytorch"],
+      "source": "https://github.com/Mariposas-Inteligentes/AI_Binbot"
+    },
+    {
+      "title": "Python to C++ transpiler",
+      "imageSrc": "project.png",
+      "description": "A transpiler that replicates Python behavior in C++.",
+      "skills": ["Python", "C++"],
+      "source": "https://github.com/Mariposas-Inteligentes/cplusplus_transpiler"
+    }
+  ]

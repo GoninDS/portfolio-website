@@ -9,8 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, I'm Luis!</h1>
         <p className={styles.description}>
-          I'm a developer awaiting graduation from Universidad de Costa Rica!
-          I have an interest in growing as a software developer, reach out if you'd like to learn more!
+          I'm a developer awaiting graduation from Universidad de Costa Rica. I have an interest in growing as a software developer. Here you can learn all about me :)
         </p>
         <a href="mailto:luis.solano.work@gmail.com" className={styles.contactBtn}>
           Contact Me
